@@ -1,0 +1,21 @@
+h1{
+    color:darkcyan;
+    font-family: cursive;
+    border:groove;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    color:saddlebrown;
+}
+h3{
+    color: sandybrown;
+}
+
+a:link{
+    color:chocolate
+}
+a:visited{
+    color: coral;
+}
